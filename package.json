@@ -1,0 +1,10 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "1": "node 1/index.js",
+    "2": "node 2/index.js"
+  }
+}
