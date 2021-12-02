@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-fs.readFile("./1/file.txt", (err, data) => {
+fs.readFile("./1.1/file.txt", (err, data) => {
   if (err) throw err;
 
   const measurements = data
