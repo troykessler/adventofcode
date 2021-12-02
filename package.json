@@ -6,6 +6,7 @@
   "scripts": {
     "1.1": "node 1.1/index.js",
     "1.2": "node 1.2/index.js",
-    "2.1": "node 2.1/index.js"
+    "2.1": "node 2.1/index.js",
+    "2.2": "node 2.2/index.js"
   }
 }

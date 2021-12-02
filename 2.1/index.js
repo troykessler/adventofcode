@@ -5,9 +5,6 @@ fs.readFile("./2.1/file.txt", (err, data) => {
 
   const commands = data.toString().split("\n");
 
-  let horizontal = 0;
-  let depth = 0;
-
   let forwardCounter = 0;
   let downCounter = 0;
   let upCounter = 0;
